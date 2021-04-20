@@ -12,6 +12,8 @@
 
 <main>
   <Avatar name="Kripa R" src="https://avatars.githubusercontent.com/u/70665360?v=4"/>
+  <img src='https://avataaars.io/?avatarStyle=Circle&topType=WinterHat4&accessoriesType=Sunglasses&hatColor=PastelRed&facialHairType=BeardMedium&facialHairColor=Auburn&clotheType=CollarSweater&clotheColor=Pink&eyeType=Dizzy&eyebrowType=UpDown&mouthType=Smile&skinColor=Pale'
+/>
   <h1>Svelte + Node.js API</h1>
   <h2>
     Deployed with
