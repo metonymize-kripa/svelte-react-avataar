@@ -1,8 +1,5 @@
 <script>
   import { onMount } from "svelte";
-  const avatar = require('gradient-avatar');
-  import InlineSVG from 'svelte-inline-svg'
-  const test_svg = avatar('uid')
   export let date;
 
   onMount(async () => {
