@@ -11,7 +11,7 @@
 </script>
 
 <main>
-  <Avatar name="Kripa R" />
+  <Avatar name="Kripa R" src="https://avatars.githubusercontent.com/u/70665360?v=4"/>
   <h1>Svelte + Node.js API</h1>
   <h2>
     Deployed with
