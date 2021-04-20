@@ -1,5 +1,6 @@
 <script>
   import { onMount } from "svelte";
+  import Avatar from "svelte-avatar";
   export let date;
 
   onMount(async () => {
@@ -10,6 +11,7 @@
 </script>
 
 <main>
+  <Avatar name="Kripa R" />
   <h1>Svelte + Node.js API</h1>
   <h2>
     Deployed with
