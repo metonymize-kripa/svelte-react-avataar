@@ -1,6 +1,7 @@
 <script>
   import { onMount } from "svelte";
   const avatar = require('gradient-avatar');
+  import InlineSVG from 'svelte-inline-svg'
   const test_svg = avatar('uid')
   export let date;
 
@@ -13,7 +14,7 @@
 
 <main>
   <h1>Svelte + Node.js API</h1>
-  {test_svg}
+  <InlineSVG src={test_svg} />
   <h2>
     Deployed with
     <a href="https://vercel.com/docs" target="_blank" rel="noreferrer noopener">
